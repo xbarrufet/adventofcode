@@ -1,0 +1,42 @@
+47|53
+97|13
+97|61
+97|47
+75|29
+61|13
+75|53
+29|13
+97|29
+53|29
+61|53
+97|53
+61|29
+47|13
+75|47
+97|75
+47|61
+75|61
+47|29
+75|13
+53|13
+
+75,47,61,53,29
+97,61,53,29,13
+75,29,13
+75,97,47,61,53
+61,13,29
+97,13,75,29,47
+
+
+
+
+
+
+1 infusiones aigua amb grans d’anis
+2 bats 1 ou, teu no, de gallina
+3 poses 3/4 (tres quarts) de taça de cafe d'oli a un bol
+4 tires sobe l'oli 1 taça de cafe de l'aigua infusionada bullint 
+5 tires l'out batut al bol
+6 vas amassant afegint farina fins que no s'enganxi als dits (mesura aprobada pel Sistema Internacional d'Unitats) 
+7 agafes una petita porció, la aplanes i la freigeixes amb oli, jo poso girasol que es més neutre
+8 sucre per sobre
